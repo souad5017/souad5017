@@ -25,12 +25,6 @@ Projet de formation réalisé en groupe : backend d’une plateforme LMS pour g�
 
 **Technologies :** Node.js, Express.js, MongoDB, Mongoose, Docker
 
-### LMS API
-
-API backend permettant de consulter, rechercher et filtrer un catalogue de cours, de modules et de ressources.
-
-**Technologies :** Node.js, Express.js, MongoDB, Mongoose, Docker, Apidog
-
 ### [Qodex Student Quiz](https://github.com/souad5017/qodex_student_quiz)
 
 Plateforme de quiz éducatifs avec catégories, calcul des scores et historique des résultats. Le projet comprend l’authentification, les rôles, la validation des entrées et des protections contre les requêtes non sécurisées.
