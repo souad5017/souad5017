@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8f4560"/>
+      <stop offset="0.5" stop-color="#a94678"/>
+      <stop offset="1" stop-color="#a8622c"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="260" rx="14" fill="url(#g)"/>
+  <rect width="6" height="260" fill="#f5c26b"/>
+  <circle cx="800" cy="40" r="110" fill="none" stroke="#ffffff" stroke-opacity="0.2" stroke-width="2"/>
+  <text x="40" y="55" font-family="Arial, sans-serif" font-size="14" font-weight="bold" letter-spacing="3" fill="#ffffff" fill-opacity="0.85">SOUAD / WEB DEVELOPMENT</text>
+  <text x="40" y="125" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#ffffff">Des idées au produit.</text>
+  <text x="40" y="165" font-family="Arial, sans-serif" font-size="20" fill="#ffffff" fill-opacity="0.9">Développement Full Stack · YouCode · Maroc</text>
+  <rect x="40" y="190" width="270" height="40" rx="20" fill="#000000" fill-opacity="0.25" stroke="#ffffff" stroke-opacity="0.3"/>
+  <circle cx="62" cy="210" r="6" fill="#7CFC6B"/>
+  <text x="78" y="215" font-family="Arial, sans-serif" font-size="15" fill="#ffffff">À la recherche d'un poste junior</text>
+</svg>
