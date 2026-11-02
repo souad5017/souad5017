@@ -169,15 +169,4 @@
   <text x="28" y="1964" font-size="15" fill="#d0d7e0">Dessin et créativité visuelle, lecture, développement personnel,</text>
   <text x="28" y="1986" font-size="15" fill="#d0d7e0">découverte de nouvelles technologies et défis.</text>
   <line x1="28" y1="2012" x2="872" y2="2012" stroke="#2f3744" stroke-dasharray="3 4"/>
-
-  <!-- Discutons -->
-  <path d="M30 2057 L44 2043 M33 2043 L44 2043 L44 2054" stroke="#ff9b7b" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="58" y="2056" font-size="20" font-weight="bold" fill="#e6edf3">Discutons</text>
-
-  <rect x="28" y="2074" width="96" height="40" rx="5" fill="#ff9b7b"/>
-  <text x="76" y="2099" font-size="13" font-weight="bold" fill="#3a1a10" text-anchor="middle">LinkedIn ↗</text>
-  <rect x="134.5" y="2074.5" width="76" height="39" rx="5" fill="#1f2530" stroke="#2f3744"/>
-  <text x="172" y="2099" font-size="13" font-weight="bold" fill="#e6edf3" text-anchor="middle">Email ↗</text>
-  <rect x="220.5" y="2074.5" width="88" height="39" rx="5" fill="#1f2530" stroke="#2f3744"/>
-  <text x="264" y="2099" font-size="13" font-weight="bold" fill="#e6edf3" text-anchor="middle">GitHub ↗</text>
 </svg>
